@@ -1,4 +1,4 @@
-import { ReminderDatabase } from "./reminderDatabase";
+import { ReminderDatabase } from "./reminder";
 
 const reminderDB = new ReminderDatabase();
 
